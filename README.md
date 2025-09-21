@@ -165,6 +165,7 @@ Nanobot is licensed under the [Apache 2.0 License](LICENSE).
 - GitHub: [github.com/nanobot-ai/nanobot](https://github.com/nanobot-ai/nanobot)
 
 # Comprehensive Guide: Building and Deploying Multi-Client AI Agents with Nanobot
+https://deepwiki.com/search/whats-this-repo-about-and-give_1d8671e7-9fee-4b0e-a419-9e576fdd34b2
 
 ## Overview
 
